@@ -11,7 +11,8 @@ header {background-color: white;
 
 .banner {display:flex;
      border-radius: 20px;
-     width: 50%;}
+     width: 50%;
+    display: flex auto}
 
 
 .title {color: white;
@@ -57,30 +58,3 @@ p {font-size: 16px;
 
 
 body {background-color: whitesmoke}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
